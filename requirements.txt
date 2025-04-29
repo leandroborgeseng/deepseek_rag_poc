@@ -1,0 +1,9 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+langchain
+pdfminer.six
+pytesseract
+Pillow
+huggingface-hub

@@ -1,0 +1,17 @@
+
+# Ignorar modelos pesados e dados de output
+/models/
+/outputs/
+/index/faiss_index.bin
+/data/textos/
+/data/perguntas.txt
+*.pkl
+*.zip
+
+# Ignorar caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
